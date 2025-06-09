@@ -1,6 +1,6 @@
 # 🛍️ Dealspotter — Crowdsourced Local Sales & Offers Platform
 
-**Dealspotter** is a community-powered platform that allows users to post and discover real-time **in-store sales and deals** in their local area. Designed for budget-conscious shoppers, especially students, the platform encourages users to report offers and rewards them with points — which can later be exchanged for real brand perks.
+**Dealspotter** is a community-powered platform that allows users to post and discover real-time **in-store sales and deals** in their local area. Designed for budget-conscious shoppers, especially students, the platform encourages users to report offers and rewards them with points  which can later be exchanged for real brand perks.
 
 ---
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 🚀 Getting Started (Local Development)
+## 🚀 Local Development
 
 1. **Clone the Repository**
    ```bash
@@ -54,17 +54,12 @@
    ```bash
    npm run dev
    ```
-
-4. **Configure Environment**
-   - Create a `.env` file if required (for backend API keys, DB URLs, etc.)
-
 ---
 
 ## 🌐 Live Deployment
 
-- Hosted on **Vercel** or **Netlify**.
-- 🔗 **Live App:** [https://dealspotter.vercel.app](https://dealspotter.vercel.app)  
-  *(Replace with your actual URL)*
+- Hosted on **Vercel**.
+- 🔗 **Live App:** coming soon.
 
 ---
 
@@ -82,19 +77,6 @@
 
 ---
 
-## 🤝 Contributing
-
-Want to improve Dealspotter?
-
-1. Fork the repo
-2. Create a new branch
-3. Submit a Pull Request
-
-Your ideas and suggestions are always welcome!
-
----
-
 ## 📜 License
 
 Licensed under the **MIT License**.  
-Feel free to use and modify.
