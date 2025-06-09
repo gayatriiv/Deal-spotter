@@ -6,33 +6,34 @@
 
 ## 🌟 Key Features
 
-- 📌 **Post Local Sales**
-  - Add store name, offer description, location, and photo
+- 📌 **Post Local Sales**  
+  Add store name, offer description, location, and photo.
 - 🔍 **Filter by Category & Location**
-- 🗺️ **Map and Grid View**
-  - Browse nearby deals visually
-- 👍 **Voting System**
-  - Upvote helpful posts, downvote expired ones
-- 💬 **Comments**
-  - Interact with other shoppers or ask about an offer
-- 🧩 **Reward Points System**
-  - Earn points by posting and receiving upvotes
-  - Redeem points for exclusive brand offers
-- 🛍️ **Brand Reward Marketplace**
-  - Redeem unlocked points for discounts and early deals
+- 🗺️ **Map and Grid View**  
+  Browse nearby deals visually.
+- 👍 **Voting System**  
+  Upvote helpful posts, downvote expired ones.
+- 💬 **Comments**  
+  Interact with other shoppers or ask about an offer.
+- 🧩 **Reward Points System**  
+  Earn points by posting and receiving upvotes.  
+  Redeem points for exclusive brand offers.
+- 🛍️ **Brand Reward Marketplace**  
+  Redeem unlocked points for discounts and early deals.
+
 ---
 
 ## 💻 Tech Stack
 
 ### 🧠 Frontend Framework & Language
-- **React** 
-- **TypeScript** 
-- **Vite** 
+- **React**
+- **TypeScript**
+- **Vite**
 
 ### 🎨 Styling & UI
-- **Tailwind CSS ** 
-- **PostCSS** 
-- **Lucide React** 
+- **Tailwind CSS**
+- **PostCSS**
+- **Lucide React**
 
 ---
 
@@ -42,54 +43,58 @@
    ```bash
    git clone https://github.com/your-username/dealspotter.git
    cd dealspotter
-Install Dependencies
+   ```
 
-bash
-Copy
-Edit
-npm install
-Run the App
+2. **Install Dependencies**
+   ```bash
+   npm install
+   ```
 
-bash
-Copy
-Edit
-npm run dev
-Configure Environment
+3. **Run the App**
+   ```bash
+   npm run dev
+   ```
 
-Create a .env file if required (for backend API keys, DB URLs, etc.)
+4. **Configure Environment**
+   - Create a `.env` file if required (for backend API keys, DB URLs, etc.)
 
-🌐 Live Deployment
-Hosted on Vercel or Netlify.
-🔗 Live App: https://dealspotter.vercel.app (replace with your actual URL)
+---
 
-💼 Use Case
-Dealspotter empowers users to:
+## 🌐 Live Deployment
 
-Never miss a local deal again
+- Hosted on **Vercel** or **Netlify**.
+- 🔗 **Live App:** [https://dealspotter.vercel.app](https://dealspotter.vercel.app)  
+  *(Replace with your actual URL)*
 
-Support budget-conscious shopping communities
+---
 
-Encourage crowd verification and authenticity
+## 💼 Use Case
 
-Receive brand rewards for real engagement
+**Dealspotter empowers users to:**
+- Never miss a local deal again
+- Support budget-conscious shopping communities
+- Encourage crowd verification and authenticity
+- Receive brand rewards for real engagement
 
-Brands benefit by:
+**Brands benefit by:**
+- Getting free promotion through loyal customers
+- Reaching hyper-local, deal-seeking audiences
 
-Getting free promotion through loyal customers
+---
 
-Reaching hyper-local, deal-seeking audiences
+## 🤝 Contributing
 
-🤝 Contributing
 Want to improve Dealspotter?
 
-Fork the repo
+1. Fork the repo
+2. Create a new branch
+3. Submit a Pull Request
 
-Create a new branch
-
-Submit a Pull Request
 Your ideas and suggestions are always welcome!
 
-📜 License
-Licensed under the MIT License.
-Feel free to use and modify.
+---
 
+## 📜 License
+
+Licensed under the **MIT License**.  
+Feel free to use and modify.
