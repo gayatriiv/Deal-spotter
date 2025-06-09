@@ -8,13 +8,9 @@
 
 - 📌 **Post Local Sales**  
   Add store name, offer description, location, and photo.
-- 🔍 **Filter by Category & Location**
-- 🗺️ **Map and Grid View**  
-  Browse nearby deals visually.
+- 🔍 **Filter by Category & Location** (interactive map coming soon..)
 - 👍 **Voting System**  
   Upvote helpful posts, downvote expired ones.
-- 💬 **Comments**  
-  Interact with other shoppers or ask about an offer.
 - 🧩 **Reward Points System**  
   Earn points by posting and receiving upvotes.  
   Redeem points for exclusive brand offers.
@@ -59,7 +55,7 @@
 ## 🌐 Live Deployment
 
 - Hosted on **Vercel**.
-- 🔗 **Live App:** coming soon.
+- 🔗 **Live App:** : https://deal-spotter.vercel.app/
 
 ---
 
