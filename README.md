@@ -37,7 +37,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/dealspotter.git
+   git clone https://github.com/gayatriiv/dealspotter.git
    cd dealspotter
    ```
 
